@@ -60,3 +60,4 @@ Implementing state management using React Hooks to ensure real-time updates betw
 
 #OUTPUT
 
+<img width="1836" height="1022" alt="Image" src="https://github.com/user-attachments/assets/d26c53db-a219-4e7f-93aa-879c90e8b765" />
