@@ -14,7 +14,7 @@
 
 *PROJECT DESCRIPTION*: The Chrome Extension: Productivity Tracker is a browser-based tool developed using React.js, JavaScript, and the Chrome Extensions API. The main goal of this project is to help users improve their digital habits by tracking the time they spend on various websites and offering a clear visual representation of their browsing behavior. This extension empowers users to make data-informed decisions to enhance productivity and reduce time spent on distractions.
 
-🎯 Project Objective
+Project Objective
 The core objective of this project is to build a lightweight and efficient browser extension that automatically tracks website activity in the background and allows users to view summarized productivity reports. Users can set goals, monitor daily habits, and visualize their usage trends, helping them manage their time more effectively.
 
 Technology Stack and Architecture
